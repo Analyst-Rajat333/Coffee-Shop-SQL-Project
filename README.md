@@ -69,7 +69,9 @@ https://github.com/Analyst-Rajat333/Coffee-Shop-SQL-Project
 ---
 
 ## 👨‍💻 Author
-**Rajat Saxena
-📧 Email: rajatsaxena950@gmail.com
-🔗 GitHub: Analyst-Rajat333**
+
+**Rajat Saxena**  
+📧 **Email**: [rajatsaxena950@gmail.com](mailto:rajatsaxena950@gmail.com)  
+🔗 **GitHub**: [Analyst-Rajat333](https://github.com/Analyst-Rajat333)
+
 
