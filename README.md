@@ -60,3 +60,16 @@ This project answers the following business questions:
 3. Use:
    ```sql
    SELECT * FROM A; -- or B, C, D...I
+
+---
+
+## 🔗 GitHub Repository Link
+https://github.com/Analyst-Rajat333/Coffee-Shop-SQL-Project
+
+---
+
+## 👨‍💻 Author
+**Rajat Saxena
+📧 Email: rajatsaxena950@gmail.com
+🔗 GitHub: Analyst-Rajat333**
+
